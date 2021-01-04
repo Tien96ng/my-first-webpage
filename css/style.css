@@ -1,0 +1,16 @@
+body {
+  background-color: rosybrown;
+}
+
+.title {
+  color: red;
+  font-weight: bold;
+}
+
+#dog {
+  height: 200px;
+}
+
+.container {
+  border: 2px blue dotted;
+}
