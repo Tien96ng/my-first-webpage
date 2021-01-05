@@ -1,0 +1,14 @@
+h1 {
+  font-weight: bold;
+  color: purple;
+}
+
+h1, p {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img {
+  height: 300px;
+  float: right;
+}
