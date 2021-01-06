@@ -1,5 +1,5 @@
 # _My First Webpage_
-#### _{First webpage using vanilla HTML5 and CSS3}_
+#### _First webpage using vanilla HTML5 and CSS3_
 #### By _Tien Nguyen_
 ##### _Co-Author_
 - _Connor Burgess_
